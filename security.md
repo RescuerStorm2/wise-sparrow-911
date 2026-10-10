@@ -132,4 +132,4 @@ In short: bulk account creator does its job quickly and without complications 鈥
 | A setup question | Read the Quick Start above |
 | A feature request | Open an issue with the `enhancement` label |
 
-<p align="center"><sub>wise-sparrow-911 路 Updated 2026-10-09 路 Shared under the MIT License</sub></p>
+<p align="center"><sub>wise-sparrow-911 路 Updated 2026-10-10 路 Shared under the MIT License</sub></p>
